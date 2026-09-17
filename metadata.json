@@ -1,0 +1,6 @@
+{
+  "name": "Potato Disease Classification",
+  "description": "Deep learning and AI model for detecting potato plant leaf diseases: Early Blight, Late Blight, and Healthy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
